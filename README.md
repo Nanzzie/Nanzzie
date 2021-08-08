@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nanzzie</h1>
-<h3 align="center">I’m currently freshmen at MN-NIT Allahabad pursuing B-Tech in Information Technology.</h3>
+<h3 align="center">I’m currently freshie at MN-NIT Allahabad pursuing B-Tech in Information Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanzzie&label=Profile%20views&color=0e75b6&style=flat" alt="nanzzie" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **song recommendation according to your mood**
+- 🔭 I’m currently working on ***Mood Enhancer: Automated song recommendation system based on emotions |***
 
 - 🌱 I’m currently learning **ML, Deep Learning, DSA.**
 
